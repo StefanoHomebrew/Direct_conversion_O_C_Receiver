@@ -1,1 +1,3 @@
-An direct conversion receiver for Short Wave very easy to build whith Arduino Nano Vfo & si 5351 PLL
+An direct conversion receiver for Short Wave very easy to build whith Arduino Nano Vfo & si 5351 PLL based on original project by Julio Cesar - Cesar Sound:
+https://www.dropbox.com/s/bgq790nscps58gi/Receptor_NE602_DC.pdf?dl=0
+
